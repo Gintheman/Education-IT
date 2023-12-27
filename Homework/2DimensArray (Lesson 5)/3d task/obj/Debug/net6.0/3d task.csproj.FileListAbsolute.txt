@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\obj\Debug\net6.0\3d task.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\obj\Debug\net6.0\3d task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\obj\Debug\net6.0\3d task.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\obj\Debug\net6.0\3d task.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\obj\Debug\net6.0\3d task.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\bin\Debug\net6.0\3d task.exe
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\bin\Debug\net6.0\3d task.deps.json
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\bin\Debug\net6.0\3d task.runtimeconfig.json
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\bin\Debug\net6.0\3d task.dll
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\bin\Debug\net6.0\3d task.pdb
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\obj\Debug\net6.0\3d task.dll
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\obj\Debug\net6.0\refint\3d task.dll
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\obj\Debug\net6.0\3d task.pdb
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\obj\Debug\net6.0\3d task.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\Education IT\Homework\2DimensArray (Lesson 5)\3d task\obj\Debug\net6.0\ref\3d task.dll
